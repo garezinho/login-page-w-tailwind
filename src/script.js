@@ -1,4 +1,4 @@
-function darkLight() {
+// function darkLight() {
     document.addEventListener("DOMContentLoaded", function () {
         // Obter referência para o botão e o elemento alvo
         var toggleButton = document.getElementById("toggleButton");
@@ -36,6 +36,8 @@ function darkLight() {
         });
     });
 
-}
+//}
 
-darkLight();
+//darkLight();
+
+
